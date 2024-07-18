@@ -1,16 +1,25 @@
-## Hi there 👋
+**About me:**
 
-<!--
-**cfullmer/cfullmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Research Associate | Bioinformatics Specialist**
 
-Here are some ideas to get you started:
+Research Associate at the University of Hawaii at Manoa specializing in microbial community analysis using QIIME2. Passionate about soil health and the application of bioinformatics in environmental science. Advanced skills in R and beginner in Python, currently learning structural equation modeling and machine learning algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Key Skills:**
+- Microbial community analysis with QIIME2
+- Intermediate-Advanced data analysis and visualization in R
+- Bioinformatics workflows and pipeline development
+- Version control with Git and GitHub
+
+**Currently Learning:**
+- Structural equation modeling
+- Machine learning algorithms
+- Advanced data analysis in Python
+
+**Current Projects:**
+- Bioinformatics analysis of soil health data
+- Development of reproducible bioinformatics pipelines
+- Integration of machine learning in FTIR spectral data analysis
+
+contact: cfullmer@hawaii.edu
+
+pronouns: he/him/his
